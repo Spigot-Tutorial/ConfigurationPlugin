@@ -1,0 +1,11 @@
+name: ConfigurationPlugin
+version: '${project.version}'
+main: me.shalckercraft.configurationplugin.Plugin
+api-version: 1.16
+commands:
+  printMessageFromConfig:
+    description: TEST
+  setFood:
+    description: qweqweqwe
+  explode:
+    description: asdasdasd
